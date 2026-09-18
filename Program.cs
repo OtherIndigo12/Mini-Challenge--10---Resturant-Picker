@@ -3,8 +3,8 @@
 //Last Saved: 9/17/2026 4:15 PM
 //Mini Challenge #10 - Resturaunt Picker
 // I made a game where the user has to enter in a answer, which will let the game select a resturant for them.
-//Peer Review Name:
-//Review: 
+//Peer Review Name:Brandon Langehennig
+//Review: code runs great with no issues good job. 
 
 string replay;
 

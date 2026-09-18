@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mini Challenge #10 - Resturant Picker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d4a798563a379b788375eb764caad8856795c54")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e902b44a56ff6f23a5e73eb5b1f322025fe5f1a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mini Challenge #10 - Resturant Picker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mini Challenge #10 - Resturant Picker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
