@@ -12,3 +12,18 @@ C:\Users\sirpi\OneDrive\Documents\Mini Challenge #10 - Resturant Picker\obj\Debu
 C:\Users\sirpi\OneDrive\Documents\Mini Challenge #10 - Resturant Picker\obj\Debug\net10.0\Mini Challenge #10 - Resturant Picker.pdb
 C:\Users\sirpi\OneDrive\Documents\Mini Challenge #10 - Resturant Picker\obj\Debug\net10.0\Mini Challenge #10 - Resturant Picker.genruntimeconfig.cache
 C:\Users\sirpi\OneDrive\Documents\Mini Challenge #10 - Resturant Picker\obj\Debug\net10.0\ref\Mini Challenge #10 - Resturant Picker.dll
+C:\Users\brand\OneDrive\Desktop\Repositories\Mini-Challenge--10---Resturant-Picker\bin\Debug\net10.0\Mini Challenge #10 - Resturant Picker.exe
+C:\Users\brand\OneDrive\Desktop\Repositories\Mini-Challenge--10---Resturant-Picker\bin\Debug\net10.0\Mini Challenge #10 - Resturant Picker.deps.json
+C:\Users\brand\OneDrive\Desktop\Repositories\Mini-Challenge--10---Resturant-Picker\bin\Debug\net10.0\Mini Challenge #10 - Resturant Picker.runtimeconfig.json
+C:\Users\brand\OneDrive\Desktop\Repositories\Mini-Challenge--10---Resturant-Picker\bin\Debug\net10.0\Mini Challenge #10 - Resturant Picker.dll
+C:\Users\brand\OneDrive\Desktop\Repositories\Mini-Challenge--10---Resturant-Picker\bin\Debug\net10.0\Mini Challenge #10 - Resturant Picker.pdb
+C:\Users\brand\OneDrive\Desktop\Repositories\Mini-Challenge--10---Resturant-Picker\obj\Debug\net10.0\Mini Challenge #10 - Resturant Picker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\OneDrive\Desktop\Repositories\Mini-Challenge--10---Resturant-Picker\obj\Debug\net10.0\Mini Challenge #10 - Resturant Picker.AssemblyInfoInputs.cache
+C:\Users\brand\OneDrive\Desktop\Repositories\Mini-Challenge--10---Resturant-Picker\obj\Debug\net10.0\Mini Challenge #10 - Resturant Picker.AssemblyInfo.cs
+C:\Users\brand\OneDrive\Desktop\Repositories\Mini-Challenge--10---Resturant-Picker\obj\Debug\net10.0\Mini Challenge #10 - Resturant Picker.csproj.CoreCompileInputs.cache
+C:\Users\brand\OneDrive\Desktop\Repositories\Mini-Challenge--10---Resturant-Picker\obj\Debug\net10.0\Mini Challenge #10 - Resturant Picker.sourcelink.json
+C:\Users\brand\OneDrive\Desktop\Repositories\Mini-Challenge--10---Resturant-Picker\obj\Debug\net10.0\Mini Challenge #10 - Resturant Picker.dll
+C:\Users\brand\OneDrive\Desktop\Repositories\Mini-Challenge--10---Resturant-Picker\obj\Debug\net10.0\refint\Mini Challenge #10 - Resturant Picker.dll
+C:\Users\brand\OneDrive\Desktop\Repositories\Mini-Challenge--10---Resturant-Picker\obj\Debug\net10.0\Mini Challenge #10 - Resturant Picker.pdb
+C:\Users\brand\OneDrive\Desktop\Repositories\Mini-Challenge--10---Resturant-Picker\obj\Debug\net10.0\Mini Challenge #10 - Resturant Picker.genruntimeconfig.cache
+C:\Users\brand\OneDrive\Desktop\Repositories\Mini-Challenge--10---Resturant-Picker\obj\Debug\net10.0\ref\Mini Challenge #10 - Resturant Picker.dll

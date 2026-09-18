@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\sirpi\\.nuget\\packages\\": {}
+    "C:\\Users\\brand\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sirpi\\OneDrive\\Documents\\Mini Challenge #10 - Resturant Picker\\Mini Challenge #10 - Resturant Picker.csproj",
+      "projectUniqueName": "C:\\Users\\brand\\OneDrive\\Desktop\\Repositories\\Mini-Challenge--10---Resturant-Picker\\Mini Challenge #10 - Resturant Picker.csproj",
       "projectName": "Mini Challenge #10 - Resturant Picker",
-      "projectPath": "C:\\Users\\sirpi\\OneDrive\\Documents\\Mini Challenge #10 - Resturant Picker\\Mini Challenge #10 - Resturant Picker.csproj",
-      "packagesPath": "C:\\Users\\sirpi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sirpi\\OneDrive\\Documents\\Mini Challenge #10 - Resturant Picker\\obj\\",
+      "projectPath": "C:\\Users\\brand\\OneDrive\\Desktop\\Repositories\\Mini-Challenge--10---Resturant-Picker\\Mini Challenge #10 - Resturant Picker.csproj",
+      "packagesPath": "C:\\Users\\brand\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\brand\\OneDrive\\Desktop\\Repositories\\Mini-Challenge--10---Resturant-Picker\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\sirpi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\brand\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
